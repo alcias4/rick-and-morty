@@ -1,0 +1,35 @@
+
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.letras {
+    width: 300px;
+    align-self: center;
+}
+
+.rick {
+    width: 300px;
+    align-self: center;
+}
+
+h1{
+    align-self: center;
+    margin-top: 70px;
+    font-weight: 800;
+}
+
+span {
+    color: #11b0c8;
+}
+
+p {
+    margin-top: 50px;
+    align-self: center;
+    opacity: .5;
+}
